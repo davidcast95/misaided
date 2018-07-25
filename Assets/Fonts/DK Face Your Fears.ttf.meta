@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 398b7f205f97e2e478bfc2365c6fd75c
+timeCreated: 1496720793
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DK Face Your Fears
+  fontNames:
+  - DK Face Your Fears
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

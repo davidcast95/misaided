@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 32f38d6aadebae54388919c71e78bbd1
+timeCreated: 1496251424
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bottom_Left_Drawer
+    100002: Bottom_Right_Drawer
+    100004: Center_Hinge
+    100006: Center_Mirror
+    100008: Center_Mirror_Glass
+    100010: Dresser
+    100012: //RootNode
+    100014: Left_Hinge
+    100016: Left_Mirror
+    100018: Left_Mirror_Glass
+    100020: Middle_Drawer
+    100022: Right_Hinge
+    100024: Right_Mirror
+    100026: Right_Mirror_Glass
+    100028: Top_Left_Drawer
+    100030: Top_Right_Drawer
+    400000: Bottom_Left_Drawer
+    400002: Bottom_Right_Drawer
+    400004: Center_Hinge
+    400006: Center_Mirror
+    400008: Center_Mirror_Glass
+    400010: Dresser
+    400012: //RootNode
+    400014: Left_Hinge
+    400016: Left_Mirror
+    400018: Left_Mirror_Glass
+    400020: Middle_Drawer
+    400022: Right_Hinge
+    400024: Right_Mirror
+    400026: Right_Mirror_Glass
+    400028: Top_Left_Drawer
+    400030: Top_Right_Drawer
+    2300000: Bottom_Left_Drawer
+    2300002: Bottom_Right_Drawer
+    2300004: Center_Hinge
+    2300006: Center_Mirror
+    2300008: Center_Mirror_Glass
+    2300010: Dresser
+    2300012: Left_Hinge
+    2300014: Left_Mirror
+    2300016: Left_Mirror_Glass
+    2300018: Middle_Drawer
+    2300020: Right_Hinge
+    2300022: Right_Mirror
+    2300024: Right_Mirror_Glass
+    2300026: Top_Left_Drawer
+    2300028: Top_Right_Drawer
+    3300000: Bottom_Left_Drawer
+    3300002: Bottom_Right_Drawer
+    3300004: Center_Hinge
+    3300006: Center_Mirror
+    3300008: Center_Mirror_Glass
+    3300010: Dresser
+    3300012: Left_Hinge
+    3300014: Left_Mirror
+    3300016: Left_Mirror_Glass
+    3300018: Middle_Drawer
+    3300020: Right_Hinge
+    3300022: Right_Mirror
+    3300024: Right_Mirror_Glass
+    3300026: Top_Left_Drawer
+    3300028: Top_Right_Drawer
+    4300000: Right_Mirror_Glass
+    4300002: Left_Mirror_Glass
+    4300004: Center_Mirror_Glass
+    4300006: Center_Hinge
+    4300008: Right_Hinge
+    4300010: Left_Hinge
+    4300012: Center_Mirror
+    4300014: Middle_Drawer
+    4300016: Top_Right_Drawer
+    4300018: Bottom_Right_Drawer
+    4300020: Bottom_Left_Drawer
+    4300022: Top_Left_Drawer
+    4300024: Dresser
+    4300026: Left_Mirror
+    4300028: Right_Mirror
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

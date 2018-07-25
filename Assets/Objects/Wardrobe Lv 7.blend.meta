@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: fa0f64a14106cac41b707e134ead6a46
+timeCreated: 1496252328
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Door1
+    100002: Door1_Handle
+    100004: Door2
+    100006: Door2_Handle
+    100008: Door3
+    100010: Door3_Handle
+    100012: Drawer1
+    100014: Drawer1_Handle
+    100016: Drawer2
+    100018: Drawer2_Handle
+    100020: Main_Body
+    100022: Mirror
+    100024: Pipe
+    100026: Plank1
+    100028: Plank2
+    100030: Plank3
+    100032: Plank4
+    100034: Plank5
+    100036: //RootNode
+    400000: Door1
+    400002: Door1_Handle
+    400004: Door2
+    400006: Door2_Handle
+    400008: Door3
+    400010: Door3_Handle
+    400012: Drawer1
+    400014: Drawer1_Handle
+    400016: Drawer2
+    400018: Drawer2_Handle
+    400020: Main_Body
+    400022: Mirror
+    400024: Pipe
+    400026: Plank1
+    400028: Plank2
+    400030: Plank3
+    400032: Plank4
+    400034: Plank5
+    400036: //RootNode
+    2300000: Door1
+    2300002: Door1_Handle
+    2300004: Door2
+    2300006: Door2_Handle
+    2300008: Door3
+    2300010: Door3_Handle
+    2300012: Drawer1
+    2300014: Drawer1_Handle
+    2300016: Drawer2
+    2300018: Drawer2_Handle
+    2300020: Main_Body
+    2300022: Mirror
+    2300024: Pipe
+    2300026: Plank1
+    2300028: Plank2
+    2300030: Plank3
+    2300032: Plank4
+    2300034: Plank5
+    3300000: Door1
+    3300002: Door1_Handle
+    3300004: Door2
+    3300006: Door2_Handle
+    3300008: Door3
+    3300010: Door3_Handle
+    3300012: Drawer1
+    3300014: Drawer1_Handle
+    3300016: Drawer2
+    3300018: Drawer2_Handle
+    3300020: Main_Body
+    3300022: Mirror
+    3300024: Pipe
+    3300026: Plank1
+    3300028: Plank2
+    3300030: Plank3
+    3300032: Plank4
+    3300034: Plank5
+    4300000: Door3_Handle
+    4300002: Mirror
+    4300004: Door1_Handle
+    4300006: Door2_Handle
+    4300008: Drawer1_Handle
+    4300010: Drawer2_Handle
+    4300012: Door1
+    4300014: Door2
+    4300016: Drawer2
+    4300018: Drawer1
+    4300020: Door3
+    4300022: Pipe
+    4300024: Plank4
+    4300026: Plank5
+    4300028: Plank3
+    4300030: Plank2
+    4300032: Plank1
+    4300034: Main_Body
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

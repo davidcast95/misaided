@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{48998581-2E7B-3277-80E1-895E9FE332C9}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Drawer/C_Drawer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Drawer/C_Drawer.cs" Line="3" Column="19" />
+      <File FileName="Assets/Scripts/Event/S_EventWardrobeMirror.cs" Line="3" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

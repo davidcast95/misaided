@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9d460f4f541144fe1b9942534e8eeb97
+timeCreated: 1497343426
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Notera Personal Use Only
+  fontNames:
+  - Notera Personal Use Only
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

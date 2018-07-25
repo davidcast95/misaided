@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 23fec600c9b514f0188f910d174598ed
+timeCreated: 1497343445
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jandys dua
+  fontNames:
+  - Jandys dua
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
